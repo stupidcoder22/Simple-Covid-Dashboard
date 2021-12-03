@@ -1,0 +1,15 @@
+body {
+  background: #343a40;
+  color: white;
+}
+
+.uparbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
